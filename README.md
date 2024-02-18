@@ -1,4 +1,4 @@
-## Ali Riza Ozzaim
+## SciChart-JS
 
 ```
 npm install
