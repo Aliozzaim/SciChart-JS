@@ -1,7 +1,5 @@
 ## Ali Riza Ozzaim
 
-## Using this Project
-
 ```
 npm install
 ```
